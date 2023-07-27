@@ -14,5 +14,4 @@ Here are some facts about me.
 
 
 
-![Pypy233's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pypy233&show_icons=true&count_private=true)
 
