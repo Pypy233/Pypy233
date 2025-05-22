@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- #### I'm Yu Pan, a third year Ph.D. student at the University of Utah (2021 ~ 0xFFFF)
+- #### I'm Yu Pan, a fourth year Ph.D. student at the University of Utah (2021 ~ 0xFFFF)
 
 Here are some facts about me.
 
