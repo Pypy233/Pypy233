@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Yu Pan, a fourth year Ph.D. student at the University of Utah (2021 ~ 0xFFFF)
+#### I'm Yu Pan, a final year Ph.D. student at the University of Utah (2021 ~ 0xFFFF)
 #### I will join CertiK as a Blockchain Security Engineer.
 
 Here are some facts about me.
