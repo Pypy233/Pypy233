@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I passed my defense!
+#### I passed my defense! 🎓 University of Utah (2021–2025)
 #### I will join CertiK as a Blockchain Security Engineer(2025 ~ 0xFFFF).
 
 Here are some facts about me.
